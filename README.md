@@ -1,4 +1,5 @@
 Movie Recommender 🎬🍿
+
 Movie Recommender is an intelligent system designed to suggest movies based on user preferences, ratings, and viewing history. Leveraging data like genre, actors, and user behavior, the recommender provides personalized movie suggestions, helping users find new films or rediscover classics. Ideal for movie enthusiasts looking for tailored recommendations across different streaming platforms.
 
 Key Features
